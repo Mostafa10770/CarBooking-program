@@ -1,4 +1,5 @@
-# Car Ride Booking Python Project (Object-Oriented)
+# Car Ride Booking Python Project 
+# Object-Oriented
 
 ![Car Ride Booking](https://www.quytech.com/assets/images/inner-images/taxi-booking-app-development.png)
 
